@@ -1,0 +1,14 @@
+{
+    "extends": [
+      "config:base",
+      "docker:disable" 
+    ],
+    "lockFileMaintenance": { "enabled": true },
+    "npm": {
+      "schedule": ["after 9pm", "before 9am"]
+    },
+    "node": {
+      "supportPolicy": ["lts_latest"]
+    }
+  }
+  
