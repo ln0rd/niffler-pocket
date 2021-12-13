@@ -1,4 +1,4 @@
-### Niffler Pocket
+## Niffler Pocket
 
 This project has been created to provide some help to manager your passwords
 locally, OTP client and Two Fac tokens generator.
