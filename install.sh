@@ -1,9 +1,8 @@
 #!/bin/bash 
 
 current_dir=$(pwd)
+niffler=$"${current_dir}/execute.sh"
 
-niffler_execute=$"${current_dir}/index.js"
-
-shopt -s expand_aliases
-
-PATH="${niffler_execute}"
+echo "" >~/.bashrc
+echo "# THE NIFFLER USE THIS LINE" >~/.bashrc
+echo "[[ -s \"${niffler}\" ]] && source \"${niffler}\"" >~/.bashrc
