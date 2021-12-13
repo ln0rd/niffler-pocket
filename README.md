@@ -37,7 +37,7 @@ Why Niffler? so this name come from Harry potter world that Niffler is a magical
 it like to catch everything that has some value, like gold and jewelry, because this this niffler can save in your pocket
 special things.
 
-#### Install
+#### [WIP] Install
 
 Aiming to facilitate the execution about niffler, execute the `install.sh` with sudo to create the alias and to execute just run
 in your terminal `niffler`.
