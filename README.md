@@ -54,5 +54,9 @@ At this moment `install.sh` just run in bash profile and zsh.
 - Sync pocket file with Gdrive;
 - Sync pocket file with OneDrive;
 - Refactor code;
+- Import from OnePassword;
+- Import from LastPass;
+- import from BitWarden;
+- import from dashlane;
 - Choose type of encrypt;
 - Refactor Command line interface;
